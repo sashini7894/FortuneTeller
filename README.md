@@ -1,6 +1,3 @@
-
-
-
 This project was developed as part of the Mobile Application Development Practical Tutorial 02
 
 Application Purpose: We built a cross-platform mobile application using React Native and Expo named "Fortune Teller".
